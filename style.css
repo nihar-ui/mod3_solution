@@ -1,4 +1,3 @@
-
 body{
     font-size: 18px;
 }
@@ -9,7 +8,7 @@ a:link {
 
 #main-nav{
  border-radius: 0;
- background-color: #ffab0f;
+ background-color: gray;
     padding: 20px;
 }
 
@@ -28,7 +27,7 @@ a:link {
 }
 
 #main-content{
- background-color: #ffab0f;
+ background-color:gray;
  margin: 15px;
  height: 1000px;
 }
